@@ -14,6 +14,7 @@
 
 static long	ft_atol(const char *str)
 {
+	//qweadsa
 	long	result;
 	int		sign;
 
